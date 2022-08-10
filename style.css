@@ -1,0 +1,33 @@
+.container-fluid{
+    background-color:rgb(240, 235, 228);
+    border-radius: 18px;
+
+}
+.top{
+    margin-top: 30px;
+}
+.col{
+    font-size: 9px;
+    margin-top: 5px;
+}
+.btn{
+        box-shadow: none;
+        font-family: Arial;
+        color: black;
+        border-color: white;
+        font-size: 10px;
+        background: white
+        padding: 10px 20px 10px 20px
+}
+.bttnn{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+img{
+    display: flex;
+    width: 100px;
+    height: 100px;
+}
