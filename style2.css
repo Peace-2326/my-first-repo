@@ -1,0 +1,47 @@
+.logo{
+    margin-left: 80px;
+    padding-left: 60px;
+    margin-top: 30px;
+}
+h4{
+    margin-left: 100px;
+    color: #949094;
+}
+h4 p{
+    color: black;
+    margin-top: 0px;
+}
+p{
+    margin-left: 60px;
+}
+.btn {
+    margin-left: 60px;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ebcdeb;
+    font-size: 30px;
+    padding: 18px 40px 19px 40px;
+    border: solid #d4dfe6 1px;
+    text-decoration: none;
+  }
+  
+  .bttn {
+    border-radius: 28px;
+    font-family: Arial;
+    color: white;
+    font-size: 20px;
+    background: #3498db;
+    padding: 40px 10px 10px 200px;
+    border: solid #d4dfe6 1px;
+    text-decoration: none;
+    margin-top: 50px;
+    margin-left: 50px;
+
+  }
+  .card{
+    width: 300px;
+    height: 300px;
+    margin-top: 80px;
+margin-left: 80px;
+  }
+
